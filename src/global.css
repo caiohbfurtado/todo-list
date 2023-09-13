@@ -23,11 +23,6 @@
   box-sizing: border-box;
 }
 
-/* :focus {
-  outline: transparent;
-  box-shadow: 0 0 0 2px var(--green-500);
-} */
-
 body {
   background: var(--gray-600);
   color: var(--gray-100);
